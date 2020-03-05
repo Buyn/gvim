@@ -1,0 +1,9 @@
+.fzf
+.vim
+\#*
+*#*
+*.stackdump
+*.elc
+*.pyc
+*.swp
+/*.zip
